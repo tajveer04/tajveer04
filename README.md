@@ -18,7 +18,7 @@ driver.implicitly_wait(5)
 # Login
 driver.find_element(By.XPATH, "//input[@placeholder='Email Address']").send_keys("amy@sunsetsingers.com")
 time.sleep(2)
-driver.find_element(By.XPATH, "//input[@placeholder='Password']").send_keys("gigwelldiscover")
+driver.find_element(By.XPATH, "//input[@placeholder='Password']").send_keys("PassWord")
 time.sleep(2)
 driver.find_element(By.XPATH, "//button[normalize-space()='Log In With Email']").click()
 time.sleep(2)
