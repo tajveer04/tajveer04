@@ -1,5 +1,8 @@
 Welcome to my GitHub profile! 🚀 I'm a seasoned Python developer specializing in web scraping and automation using Selenium. With a passion for extracting valuable insights and data from the web, I strive to create efficient and effective solutions to tackle various scraping challenges.
 
+Upwork Profile:
+In addition to my GitHub contributions, I also offer my expertise as a freelance developer on Upwork. Check out my Upwork profile [here](https://upwork.com/freelancers/tajveer04) to learn more about my professional background, client testimonials, and completed projects. Whether you're seeking assistance with web scraping, automation, or custom Python development, I'm here to help you achieve your goals efficiently and effectively.
+
 Featured Repositories:
 SeleniumWebScraper: This repository showcases my expertise in web scraping using Selenium WebDriver. From basic scraping tasks to more complex scenarios involving dynamic content, you'll find a collection of scripts and utilities to gather data from websites reliably and efficiently.
 
